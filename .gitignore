@@ -1,11 +1,2 @@
-src/Play.Identity.Contracts/obj/Debug/net5.0/.NETCoreApp,Version=v5.0.AssemblyAttributes.cs
-src/Play.Identity.Contracts/obj/Debug/net5.0/Play.Identity.Contracts.AssemblyInfo.cs
-src/Play.Identity.Contracts/obj/Debug/net5.0/Play.Identity.Contracts.AssemblyInfoInputs.cache
-src/Play.Identity.Contracts/obj/Debug/net5.0/Play.Identity.Contracts.assets.cache
-src/Play.Identity.Contracts/obj/Debug/net5.0/Play.Identity.Contracts.csproj.AssemblyReference.cache
-src/Play.Identity.Contracts/obj/Debug/net5.0/Play.Identity.Contracts.GeneratedMSBuildEditorConfig.editorconfig
-src/Play.Identity.Contracts/obj/Play.Identity.Contracts.csproj.nuget.dgspec.json
-src/Play.Identity.Contracts/obj/Play.Identity.Contracts.csproj.nuget.g.props
-src/Play.Identity.Contracts/obj/Play.Identity.Contracts.csproj.nuget.g.targets
-src/Play.Identity.Contracts/obj/project.assets.json
-src/Play.Identity.Contracts/obj/project.nuget.cache
+[Bb]in/
+[Oo]bj/
