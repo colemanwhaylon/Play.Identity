@@ -9,7 +9,7 @@ using Microsoft.AspNetCore.Mvc;
 using Play.Identity.Contracts;
 using Play.Identity.Service.Dtos;
 using Play.Identity.Service.Entities;
-using static Duende.IdentityServer.IdentityServerConstants;
+using static IdentityServer4.IdentityServerConstants;
 
 namespace Play.Identity.Service.Controllers
 {
